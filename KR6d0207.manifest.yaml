@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0207_000.yaml, hash: 'sha256:05794488df38dfae403465449bb35d9503d63a592de0254491f666b2ee087dca'}
-  - {seq: 1, filename: KR6d0207_001.yaml, hash: 'sha256:db4966816d657eb9fdb13335efe0483ed35cacdfa01f338c28e7ed4ef40ca250'}
+  - {seq: 1, filename: KR6d0207_001.yaml, hash: 'sha256:98c9fd6c6f456fe0334874846d6e99804e4aef40bebbd296aff3dcf4abd63d35'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6d0207_001.markers.yaml, hash: 'sha256:410f8816dfba9f709d4dd12a67d27226ec6bf35bed87794d64f934e6f957b9be'}
+  - {seq: 0, role: markers, filename: assets/KR6d0207_000.markers.yaml, hash: 'sha256:bef62464e7d2c7282ee41c5fe50ac81f1deb655ef2aa81bbf8b55ee4e9fcfdfa'}
+  - {seq: 1, role: markers, filename: assets/KR6d0207_001.markers.yaml, hash: 'sha256:cd215ff5e70191d55a60dd9518bd0122879e7b7b0c858b0a1b231548cb9d1736'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 禪門章
   type: juan
   level: 1
-hash: sha256:b2c0e7c305945a5bc4b5c6fcd0e2e9622f7004ea880d5a08e227d274149ac4d7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1f525634bbfb109863084037dc349f3f77ad7331b1e1e3fad250230eb5a31d4a
